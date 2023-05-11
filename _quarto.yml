@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "Aishwarya Othena" 
+  site-url: "https://aishwaryaothena.github.io/newwebsite/" 
+  repo-url: "https://github.com/AishwaryaOthena/newwebsite"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -15,14 +15,14 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    logo: ""
     favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://aishwaryaothena.github.io/newwebsite
+        text: "Aishwarya Athena"
       - icon: github
         href: https://github.com/nmfs-opensci
         text: "NMFS OpenSci"
@@ -33,18 +33,16 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+      - href: content/aboutme.qmd
+        text: About Me
+      - href: content/cv.qmd
+        text: My CV
+      - href: content/publications.qmd
+        text: My Publications
+      - href: content/art.qmd
+        text: My Art Portfolio
+      - href: content/writing.qmd
+        text: My Creative Writing
 
 format:
   html:
