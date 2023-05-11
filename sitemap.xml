@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/acknowledgements.html</loc>
-    <lastmod>2023-01-27T00:14:02.438Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/blog.html</loc>
+    <lastmod>2023-05-11T11:47:19.407Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/publishing.html</loc>
-    <lastmod>2023-01-27T00:14:04.942Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/publications.html</loc>
+    <lastmod>2023-05-11T11:47:21.487Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/customizing.html</loc>
-    <lastmod>2023-01-27T00:14:05.430Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/cv.html</loc>
+    <lastmod>2023-05-11T11:47:21.799Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/rmarkdown.html</loc>
-    <lastmod>2023-01-27T00:14:07.878Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/writing.html</loc>
+    <lastmod>2023-05-11T11:47:23.127Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/add-content.html</loc>
-    <lastmod>2023-01-27T00:14:08.334Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/aboutme.html</loc>
+    <lastmod>2023-05-11T11:47:23.455Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/code.html</loc>
-    <lastmod>2023-01-27T00:14:09.802Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/art.html</loc>
+    <lastmod>2023-05-11T11:47:23.783Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/rendering.html</loc>
-    <lastmod>2023-01-27T00:14:10.298Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/index.html</loc>
-    <lastmod>2023-01-27T00:14:10.750Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/index.html</loc>
+    <lastmod>2023-05-11T11:47:24.143Z</lastmod>
   </url>
 </urlset>
