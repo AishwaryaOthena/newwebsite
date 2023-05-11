@@ -22,10 +22,17 @@ website:
     tools: 
       - icon: globe
         href: https://aishwaryaothena.github.io/newwebsite
-        text: "Aishwarya Athena"
+        text: "Website"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/AishwaryaOthena/
+        text: "Github"
+      icon: linkedin
+        href: https://www.linkedin.com/in/AishwaryaOthena
+        text: "LinkedIn"
+      - icon: instagram
+        href: https://www.instagram.com/the_blind_bookworm
+        text: "Instagram"
+
 
     style: "docked"
     search: true
