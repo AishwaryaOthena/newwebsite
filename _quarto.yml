@@ -26,8 +26,8 @@ website:
       - icon: github
         href: https://github.com/AishwaryaOthena/
         text: "Github"
-      icon: linkedin
-        href: https://www.linkedin.com/in/AishwaryaOthena
+      - icon: linkedin
+        href: https://www.linkedin.com/in/aishwaryaothena
         text: "LinkedIn"
       - icon: instagram
         href: https://www.instagram.com/the_blind_bookworm
