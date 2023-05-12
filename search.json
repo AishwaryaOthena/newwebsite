@@ -154,27 +154,6 @@
     "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
   },
   {
-    "objectID": "content/aboutme.html",
-    "href": "content/aboutme.html",
-    "title": "Aishwarya Athena",
-    "section": "",
-    "text": "Aishwarya has a Masters Degree in Development from Azim Premji University and is currently pursuing Doctoral studies at IIIT Bangalore in the area of IT and Society. She has worked for a year at Vision Empower, a non-profit organization that aims to make science, technology, engineering and mathematics (STEM) subjects accessible to blind and visually impaired children studying in special schools in Karnataka. She is an avid reader, and an occasional, novice writer. Having recently discovered ways of producing tactile  art as a blind person, she is now exploring the use of art as a medium for breaking stereotypes and confronting ableism. Researching, and creating more knowledge on disability studies and accessibility, is her passion as well as profession."
-  },
-  {
-    "objectID": "content/aboutme.html#research-interests",
-    "href": "content/aboutme.html#research-interests",
-    "title": "Aishwarya Athena",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nAccessibility and disability studies in the Global South"
-  },
-  {
-    "objectID": "content/aboutme.html#hobbies",
-    "href": "content/aboutme.html#hobbies",
-    "title": "Aishwarya Athena",
-    "section": "Hobbies",
-    "text": "Hobbies\n\nWriting\nBooks\nArt"
-  },
-  {
     "objectID": "content/art.html",
     "href": "content/art.html",
     "title": "Customization",
@@ -198,21 +177,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Aishwarya Athena",
+    "title": "Aishwarya Othena",
     "section": "",
     "text": "Aishwarya has a Masters Degree in Development from Azim Premji University and is currently pursuing Doctoral studies at IIIT Bangalore in the area of IT and Society. She has worked for a year at Vision Empower, a non-profit organization that aims to make science, technology, engineering and mathematics (STEM) subjects accessible to blind and visually impaired children studying in special schools in Karnataka. She is an avid reader, and an occasional, novice writer. Having recently discovered ways of producing tactile  art as a blind person, she is now exploring the use of art as a medium for breaking stereotypes and confronting ableism. Researching, and creating more knowledge on disability studies and accessibility, is her passion as well as profession."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Aishwarya Athena",
+    "title": "Aishwarya Othena",
     "section": "Research Interests",
     "text": "Research Interests\n\nAccessibility and disability studies in the Global South\nCreating tactile art opportunities for children who are blind."
   },
   {
     "objectID": "index.html#hobbies",
     "href": "index.html#hobbies",
-    "title": "Aishwarya Athena",
+    "title": "Aishwarya Othena",
     "section": "Hobbies",
     "text": "Hobbies\n\nWriting\nBooks\nArt"
   }
