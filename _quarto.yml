@@ -39,10 +39,7 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Home
-      - href: content/aboutme.qmd
-        text: About Me
-      - href: content/cv.qmd
+        text: Home      - href: content/cv.qmd
         text: My CV
       - href: content/publications.qmd
         text: My Publications
