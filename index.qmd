@@ -1,5 +1,5 @@
 ---
-title: "Aishwarya Athena"
+title: "Aishwarya Othena"
 subtitle: "I Tell Stories with Pictures, and Make Pictures with Words"
 page-layout: full
 ---
