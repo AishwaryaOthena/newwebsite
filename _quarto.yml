@@ -2,7 +2,7 @@ project:
   type: website
 
 website: 
-  page-navigation: true
+  page-navigation: false
   title: "Aishwarya Othena" 
   site-url: "https://aishwaryaothena.github.io/newwebsite/" 
   repo-url: "https://github.com/AishwaryaOthena/newwebsite"
@@ -11,7 +11,7 @@ website:
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; CC-1.0"
+    left: "&copy; Aishwarya Athena, CC-1.0"
   
   sidebar:
     background: "#D9E3E4"
