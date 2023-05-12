@@ -4,7 +4,7 @@ subtitle: "I Tell Stories with Pictures, and Make Pictures with Words"
 page-layout: full
 about:
   template: solana
-  image: profile.jpg
+  image: profile.jpeg
   links:
     - icon: instagram
       text: Instagram
@@ -19,6 +19,7 @@ Aishwarya has a Masters Degree in Development from Azim Premji University and is
 ## Research Interests
 
 + Accessibility and disability studies in the Global South
++ Creating tactile art opportunities for children who are blind.
 
 ## Hobbies
 
