@@ -30,7 +30,7 @@ At [Centre for Accessibility in the Global South](https://http://www.cagsiiitb.o
 
 
 **Bachelor of Arts** in Economics<br>
-[Sacred Heart College, Mahatma Gandhi University]](https://www.mgu.ac.in/) - Kerala, India _(2014 - 2017) - CGPA 9.8_
+[Sacred Heart College, Mahatma Gandhi University](https://www.mgu.ac.in/) - Kerala, India _(2014 - 2017) - CGPA 9.8_
 
 ## 👩🏼‍💻 Experience
 
@@ -41,21 +41,21 @@ world.
 <br><br>
 
 **Educational Coordinator ** @ [Vision Empower](http://visionempowertrust.org/) _(2019 - 2020)_ <br>
-+ Responsibilities included creating accessible STEM content, development of teacher training modules, , designing student engagements for
++Responsibilities included creating accessible STEM content, development of teacher training modules, , designing student engagements for
 visually impaired students in middle school using story-telling, games and technology.
-+ Involved in the VICT project which aimed to inculcate computational thinking (CT) concepts in children with visual impairments through play. This included creation and validation of resources, weekly school visits for play sessions, observation and reporting, and creating the CT curriculum
++Involved in the VICT project which aimed to inculcate computational thinking (CT) concepts in children with visual impairments through play. This included creation and validation of resources, weekly school visits for play sessions, observation and reporting, and creating the CT curriculum
 with the team.
-+ Worked extensively on secondary research in order to generate key learning indicators of numeracy
++Worked extensively on secondary research in order to generate key learning indicators of numeracy
 skills for students in Grades 1-4.
-+ Involved in a research study on the attitudes and perceptions of teachers on introducing digital
++Involved in a research study on the attitudes and perceptions of teachers on introducing digital
 literacy through games.
-+ Evaluated technologies such as TAG and HEXIS created at Vision Empower and IIITB for
++Evaluated technologies such as TAG and HEXIS created at Vision Empower and IIITB for
 students with visual impairment.
-+ Conducted a research pilot for online story telling as a pedagogical approach for children with
++Conducted a research pilot for online story telling as a pedagogical approach for children with
 visual impairment.
 <br><br>
 
-**Intern ** @ [Grassroots Research and Advocacy Movement](https://graam.org.in) _(August 2018- June )_ <br>
+**Intern ** @ [Grassroots Research and Advocacy Movement](https://graam.org.in) _(May 2018- June 2018 )_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
