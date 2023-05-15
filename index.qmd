@@ -5,10 +5,7 @@ page-layout: full
 toc: false
 ---
 
-> Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last, you create what you will.
-> 
-> ― George Bernard Shaw
-
+> <div style="background-color: royalblue; color: white; padding: 10px; font-style: italic; font-size: 1.2em;">Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last, you create what you will. - George Bernard Shaw</div>
 
 Hello, fellow digital wanderer. Welcome to this little corner of the web that I call home.
 
