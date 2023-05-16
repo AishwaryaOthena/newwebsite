@@ -42,7 +42,7 @@ world.
 
 <br><br>
 
-**Educational Coordinator ** @ [Vision Empower](http://visionempowertrust.org/) _(2019 - 2020)_ 
+**Educational Coordinator ** @ [Vision Empower](http://visionempowertrust.org/) _(June 2019 - August 2020)_ 
 
 + Responsibilities included creating accessible STEM content, development of teacher training modules, , designing student engagements for
 visually impaired students in middle school using story-telling, games and technology.
@@ -72,10 +72,10 @@ in India: Trends, Prospects and Challenges in the Post-Mandate Period.
 
 ## 👩🏼‍🎓 Fellowships and Scholarships
 
- + **I can Lead Fellow** 2020-2021: one of 12 women with disabilities selected for the fellowship by **Rising Flame**
-    + Course on **Designing and Creating Assistive Technology Solutions,** 2021 - Scholarship  by **National Institute of Speech and Hearing, Trivandrum**
-    + Course on **Methods and Statistics in Social Sciences** - Financed  by **Coursera**
-    + Set of courses on **document accessibility**  completed with  scholarship for persons with disabilities by **Deque University**
+ + [I Can Lead 2020](https://risingflame.org/project/i-can-lead-2020/) fellow: one of 12 women with disabilities selected for the fellowship by **Rising Flame**
++ Course on **Designing and Creating Assistive Technology Solutions,** 2021 - Scholarship  by **National Institute of Speech and Hearing, Trivandrum**
++ Course on **Methods and Statistics in Social Sciences** - Financed  by **Coursera**
++ Set of courses on **document accessibility**  completed with  scholarship for persons with disabilities by **Deque University**
 
 ## ✍🏼🎤 Publications and Talks
 
@@ -84,17 +84,19 @@ in India: Trends, Prospects and Challenges in the Post-Mandate Period.
 + 2022. Performing Qualitative Data Analysis as a Blind Researcher: Challenges, Workarounds and Design Recommendations. In The 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’22) [DOI](https://doi.org/10.1145/3517428.3551356)
 + 2021. Teachers’ Perceptions around Digital Games for Children in Low-resource Schools for the Blind. With Gesu India, Vidhya Y, Nirmalendu Diwakar, Mohit Jain, Aditya Vashistha, and Manohar Swaminathan. In CHI Conference on Human Factors in Computing Systems (CHI ’21) [DOI](https://doi.org/10.1145/3411764.3445194)
 
+### Talks
+
++ 2023. Invited talk at the Workshop on Data Analysis for People with Visual Impairments, organized by Azim Premji University
++ 2022.  State of the Art in Assistive Technology for People with Visual Disabilities, invited guest lecture at the Workshop on Assistive Technology for Rehabilitation Professionals, Organized by the Rehabilitation Council of India. .
++  2022. Tactile Art: from Hobby to Research, at the Workshop on Tactile Interactivity, Organized by the Disability Innovation Hub and Center for Accessibility in the Global South at IIITB.
++ 2021. Hands-on and Hand-in-hand: Building Virtual Makerspaces that are Accessible to people with Visual Disabilities. in. Workshop on Accessible AR and VR Systems. in CHI2021.
++ 2021. Finding Community. I Can Lead Talk for Rising flame. [Watch on Youtube](https://www.youtube.com/watch?v=WCtEMYSyWxk)
+
 ### Poster Presentations
 
 + 2023. A participatory Design Approach for the Global South: Lessons from Designing a Tool for the Comprehension of Tactile Graphics for Children with Visual Impairments in India. With Amit Prakash and Supriya Dey. in Empower, 2023. 
 + 2019. Play to Learn and Learn to Play: Designing Card games for Inculcating Numeracy Skills for children with Visual Impairments. With Amit Prakash, Supriya Dey, Manohar Swaminathan, Gesu India, and Jyoti Bhisht.in Empower, 2019. 
 
-
-### Presentations
-
-+ 2022.  State of the Art in Assistive Technology for People with Visual Disabilities, invited guest lecture at the Workshop on Assistive Technology for Rehabilitation Professionals, Organized by the Rehabilitation Council of India. .
-+  2022. Tactile Art: from Hobby to Research, at the Workshop on Tactile Interactivity, Organized by the Disability Innovation Hub and Center for Accessibility in the Global South at IIITB.
-+ 2021. Hands-on and Hand-in-hand: Building Virtual Makerspaces that are Accessible to people with Visual Disabilities. in. Workshop on Accessible AR and VR Systems. in CHI2021.
 
 ## 👩🏼‍🎓 Skills
 
@@ -111,7 +113,7 @@ in India: Trends, Prospects and Challenges in the Post-Mandate Period.
 
 ## 💬 Languages
 
-🇺🇳 ** English **
+🌏 **English **
 
 🇮🇳 **Malayalam** (native language)
 
