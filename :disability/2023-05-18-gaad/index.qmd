@@ -1,0 +1,38 @@
+---
+title: "5 Tech Tools that Originated as Assistive Tech"
+description: "On Global Accessibility Awareness Day (GAAD), lets take a look at 5 technology tools or features that first originated as assistive technology"
+author:
+  - name: Aishwarya Othena
+    url: https://aishwaryaothena.github.io
+date: 05-18-2023
+categories: [Accessibility, Disability] # self-defined categories
+citation: 
+  url: https://aishwaryaothena.github.io/newwebsite/disability/2023-05-18-gaad/ 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Today is Global Accessibility Awareness Day, a day for thinking on and educating others about accessibility. This GAAD, I want to debunk the myth that accessibility is something niche and specialized that only benefits people with disabilities. Yes, accessibility is meant for people with disabilities, but making things accessible benefits everyone, whether or not they have a disability. In fact, many of the technological tools and features are widely used today originated as assistive technology. Here are some of them.
+
+## The Vibration Mode on Phones
+
+Ever quickly put your phone on vibrate before getting into a meeting?
+
+The vibration mode on our phones was once conceptualized as a way of alerting Deaf people when they get calls and notifications.
+
+## Audiobooks
+
+Audio-recording books was first a way for people with print disabilities (those who are blind and visually impaired, those with dislexia, etc) to get access to print content. Now, services such as Audible and Storytell have millions of subscribers, most of whom are non-disabled.
+
+## Voice Recognition
+
+Voice recognition technology was initially developed as assistive technology to help individuals with locomotor disabilities to interact with computers. Today, it has become more widespread, and used in virtual assistants like Siri, Google Assistant, dictation software, and voice-control devices.
+
+## Closed Captioning
+
+Closed captioning was initially developed to provide text-based captions for individuals who are Deaf or hard of hearing. Today, closed captioning is widely used to accommodate diverse needs, which includes breaking down language barriers.
+
+## Glasses
+
+Yes, I'm talking about those sunglasses or spectacles you wear. Did you know that they can also be considered as assistive technology? Their function is to correct vision, but they have now turned into fashion accessories.
+
+

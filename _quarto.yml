@@ -11,7 +11,7 @@ website:
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; Aishwarya Athena, CC-1.0"
+    left: "&copy; Aishwarya Othena, CC-1.0"
   
   sidebar:
     background: "#D9E3E4"
@@ -48,6 +48,9 @@ website:
         text: My Art Portfolio
       - href: content/writing.qmd
         text: My Creative Writing
+      href: disability.qmd
+        text: Disability and Accessibility Blog
+
 
 format:
   html:
