@@ -165,7 +165,7 @@
     "href": "disability.html",
     "title": "Aishwarya Othena",
     "section": "",
-    "text": "title: “Posts on Disability and Accessibility” listing: contents: posts # all Quarto docs in the posts directory will be included on your listing page type: grid # or default or table; each type has its own set of yaml options to include sort: “date desc” # can also sort on more than one field categories: true # allows you to sort posts by assigned categories"
+    "text": "title: “Posts on Disability and Accessibility” listing: contents: disability # all Quarto docs in the posts directory will be included on your listing page type: grid # or default or table; each type has its own set of yaml options to include sort: “date desc” # can also sort on more than one field categories: true # allows you to sort posts by assigned categories"
   },
   {
     "objectID": ":disability/2023-05-18-gaad/index.html",
