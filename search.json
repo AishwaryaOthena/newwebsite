@@ -161,53 +161,11 @@
     "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
   },
   {
-    "objectID": "disability.html",
-    "href": "disability.html",
-    "title": "Aishwarya Othena",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "posts",
     "section": "",
-    "text": "title: “Posts on Disability and Accessibility” listing: contents: /disability # all Quarto docs in the posts directory will be included on your listing page type: grid # or default or table; each type has its own set of yaml options to include sort: “date desc” # can also sort on more than one field categories: true # allows you to sort posts by assigned categories"
-  },
-  {
-    "objectID": ":disability/2023-05-18-gaad/index.html",
-    "href": ":disability/2023-05-18-gaad/index.html",
-    "title": "5 Tech Tools that Originated as Assistive Tech",
-    "section": "",
-    "text": "Today is Global Accessibility Awareness Day, a day for thinking on and educating others about accessibility. This GAAD, I want to debunk the myth that accessibility is something niche and specialized that only benefits people with disabilities. Yes, accessibility is meant for people with disabilities, but making things accessible benefits everyone, whether or not they have a disability. In fact, many of the technological tools and features are widely used today originated as assistive technology. Here are some of them."
-  },
-  {
-    "objectID": ":disability/2023-05-18-gaad/index.html#the-vibration-mode-on-phones",
-    "href": ":disability/2023-05-18-gaad/index.html#the-vibration-mode-on-phones",
-    "title": "5 Tech Tools that Originated as Assistive Tech",
-    "section": "The Vibration Mode on Phones",
-    "text": "The Vibration Mode on Phones\nEver quickly put your phone on vibrate before getting into a meeting?\nThe vibration mode on our phones was once conceptualized as a way of alerting Deaf people when they get calls and notifications."
-  },
-  {
-    "objectID": ":disability/2023-05-18-gaad/index.html#audiobooks",
-    "href": ":disability/2023-05-18-gaad/index.html#audiobooks",
-    "title": "5 Tech Tools that Originated as Assistive Tech",
-    "section": "Audiobooks",
-    "text": "Audiobooks\nAudio-recording books was first a way for people with print disabilities (those who are blind and visually impaired, those with dislexia, etc) to get access to print content. Now, services such as Audible and Storytell have millions of subscribers, most of whom are non-disabled."
-  },
-  {
-    "objectID": ":disability/2023-05-18-gaad/index.html#voice-recognition",
-    "href": ":disability/2023-05-18-gaad/index.html#voice-recognition",
-    "title": "5 Tech Tools that Originated as Assistive Tech",
-    "section": "Voice Recognition",
-    "text": "Voice Recognition\nVoice recognition technology was initially developed as assistive technology to help individuals with locomotor disabilities to interact with computers. Today, it has become more widespread, and used in virtual assistants like Siri, Google Assistant, dictation software, and voice-control devices."
-  },
-  {
-    "objectID": ":disability/2023-05-18-gaad/index.html#closed-captioning",
-    "href": ":disability/2023-05-18-gaad/index.html#closed-captioning",
-    "title": "5 Tech Tools that Originated as Assistive Tech",
-    "section": "Closed Captioning",
-    "text": "Closed Captioning\nClosed captioning was initially developed to provide text-based captions for individuals who are Deaf or hard of hearing. Today, closed captioning is widely used to accommodate diverse needs, which includes breaking down language barriers."
-  },
-  {
-    "objectID": ":disability/2023-05-18-gaad/index.html#glasses",
-    "href": ":disability/2023-05-18-gaad/index.html#glasses",
-    "title": "5 Tech Tools that Originated as Assistive Tech",
-    "section": "Glasses",
-    "text": "Glasses\nYes, I’m talking about those sunglasses or spectacles you wear. Did you know that they can also be considered as assistive technology? Their function is to correct vision, but they have now turned into fashion accessories."
+    "text": "5 Tech Tools that Originated as Assistive Tech\n\n\n\n\n\n\n\nAccessibility\n\n\nDisability\n\n\n\n\nOn Global Accessibility Awareness Day (GAAD), lets take a look at 5 technology tools or features that first originated as assistive technology\n\n\n\n\n\n\nMay 18, 2023\n\n\nAishwarya Othena\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -236,5 +194,47 @@
     "title": "Aishwarya Othena 👩🏻‍🦯👩🏼‍🎨✍🏼",
     "section": "Hobbies",
     "text": "Hobbies\n\nWriting\nBooks\nArt"
+  },
+  {
+    "objectID": "posts/2023-05-18-gaad/index.html",
+    "href": "posts/2023-05-18-gaad/index.html",
+    "title": "5 Tech Tools that Originated as Assistive Tech",
+    "section": "",
+    "text": "Today is Global Accessibility Awareness Day, a day for thinking on and educating others about accessibility. This GAAD, I want to debunk the myth that accessibility is something niche and specialized that only benefits people with disabilities. Yes, accessibility is meant for people with disabilities, but making things accessible benefits everyone, whether or not they have a disability. In fact, many of the technological tools and features are widely used today originated as assistive technology. Here are some of them."
+  },
+  {
+    "objectID": "posts/2023-05-18-gaad/index.html#the-vibration-mode-on-phones",
+    "href": "posts/2023-05-18-gaad/index.html#the-vibration-mode-on-phones",
+    "title": "5 Tech Tools that Originated as Assistive Tech",
+    "section": "The Vibration Mode on Phones",
+    "text": "The Vibration Mode on Phones\nEver quickly put your phone on vibrate before getting into a meeting?\nThe vibration mode on our phones was once conceptualized as a way of alerting Deaf people when they get calls and notifications."
+  },
+  {
+    "objectID": "posts/2023-05-18-gaad/index.html#audiobooks",
+    "href": "posts/2023-05-18-gaad/index.html#audiobooks",
+    "title": "5 Tech Tools that Originated as Assistive Tech",
+    "section": "Audiobooks",
+    "text": "Audiobooks\nAudio-recording books was first a way for people with print disabilities (those who are blind and visually impaired, those with dislexia, etc) to get access to print content. Now, services such as Audible and Storytell have millions of subscribers, most of whom are non-disabled."
+  },
+  {
+    "objectID": "posts/2023-05-18-gaad/index.html#voice-recognition",
+    "href": "posts/2023-05-18-gaad/index.html#voice-recognition",
+    "title": "5 Tech Tools that Originated as Assistive Tech",
+    "section": "Voice Recognition",
+    "text": "Voice Recognition\nVoice recognition technology was initially developed as assistive technology to help individuals with locomotor disabilities to interact with computers. Today, it has become more widespread, and used in virtual assistants like Siri, Google Assistant, dictation software, and voice-control devices."
+  },
+  {
+    "objectID": "posts/2023-05-18-gaad/index.html#closed-captioning",
+    "href": "posts/2023-05-18-gaad/index.html#closed-captioning",
+    "title": "5 Tech Tools that Originated as Assistive Tech",
+    "section": "Closed Captioning",
+    "text": "Closed Captioning\nClosed captioning was initially developed to provide text-based captions for individuals who are Deaf or hard of hearing. Today, closed captioning is widely used to accommodate diverse needs, which includes breaking down language barriers."
+  },
+  {
+    "objectID": "posts/2023-05-18-gaad/index.html#glasses",
+    "href": "posts/2023-05-18-gaad/index.html#glasses",
+    "title": "5 Tech Tools that Originated as Assistive Tech",
+    "section": "Glasses",
+    "text": "Glasses\nYes, I’m talking about those sunglasses or spectacles you wear. Did you know that they can also be considered as assistive technology? Their function is to correct vision, but they have now turned into fashion accessories."
   }
 ]
