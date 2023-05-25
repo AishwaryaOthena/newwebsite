@@ -48,7 +48,7 @@ website:
         text: My Art Portfolio
       - href: content/writing.qmd
         text: My Creative Writing
-      - href: disability.qmd
+      - href: posts.qmd
         text: Disability and Accessibility Blog
 
 
