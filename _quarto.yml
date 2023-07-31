@@ -42,12 +42,6 @@ website:
         text: Home
       - href: content/cv.qmd
         text: My CV
-      - href: content/publications.qmd
-        text: My Publications
-      - href: content/art.qmd
-        text: My Art Portfolio
-      - href: content/writing.qmd
-        text: My Creative Writing
       - href: posts.qmd
         text: Disability and Accessibility Blog
 
