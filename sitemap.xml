@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aishwaryaothena.github.io/newwebsite/content/blog.html</loc>
-    <lastmod>2023-05-25T17:35:59.455Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aishwaryaothena.github.io/newwebsite/content/publications.html</loc>
-    <lastmod>2023-05-25T17:36:01.803Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aishwaryaothena.github.io/newwebsite/content/cv.html</loc>
-    <lastmod>2023-05-25T17:36:02.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aishwaryaothena.github.io/newwebsite/content/writing.html</loc>
-    <lastmod>2023-05-25T17:36:03.967Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/posts.html</loc>
+    <lastmod>2023-07-31T20:58:10.515Z</lastmod>
   </url>
   <url>
     <loc>https://aishwaryaothena.github.io/newwebsite/content/art.html</loc>
-    <lastmod>2023-05-25T17:36:04.371Z</lastmod>
+    <lastmod>2023-07-31T20:58:09.431Z</lastmod>
   </url>
   <url>
-    <loc>https://aishwaryaothena.github.io/newwebsite/posts.html</loc>
-    <lastmod>2023-05-25T17:36:04.911Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aishwaryaothena.github.io/newwebsite/index.html</loc>
-    <lastmod>2023-05-25T17:36:05.339Z</lastmod>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/publications.html</loc>
+    <lastmod>2023-07-31T20:58:08.675Z</lastmod>
   </url>
   <url>
     <loc>https://aishwaryaothena.github.io/newwebsite/posts/2023-05-18-gaad/index.html</loc>
-    <lastmod>2023-05-25T17:36:06.003Z</lastmod>
+    <lastmod>2023-07-31T20:58:06.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aishwaryaothena.github.io/newwebsite/index.html</loc>
+    <lastmod>2023-07-31T20:58:04.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/writing.html</loc>
+    <lastmod>2023-07-31T20:58:08.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/blog.html</loc>
+    <lastmod>2023-07-31T20:58:09.055Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aishwaryaothena.github.io/newwebsite/content/cv.html</loc>
+    <lastmod>2023-07-31T20:58:10.063Z</lastmod>
   </url>
 </urlset>
