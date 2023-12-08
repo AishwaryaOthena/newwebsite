@@ -1,1 +1,1 @@
-Sitemap: https://aishwaryaothena.github.io/newwebsite/sitemap.xml
+Sitemap: https://aishwaryaothena.github.io/sitemap.xml
